@@ -1,0 +1,2 @@
+# Keep-Note-app
+Keep Note is a list that you can keep to put all of the tasks that you to complete on given day. It can be very useful for managing time,by planning your day ahed of time,and prioritizing activites.Keep note don't need to be complicated plenty of people use a pen and paper for the job without any problem.In this app, one can create tasks to the list by clicking a button, uploade those tasks and delete after completion.
